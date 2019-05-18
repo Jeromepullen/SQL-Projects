@@ -1,6 +1,6 @@
 # SQL-Projects
 
-Here are some projects that I have completed using SQL:
+Here are some projects that I (Jerome Pullen Jr.) have completed using SQL:
 
 _________________________________________
 
