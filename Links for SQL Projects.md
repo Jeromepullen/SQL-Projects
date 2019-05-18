@@ -2,6 +2,8 @@
 
 Here are some projects that I have completed using SQL:
 
+_________________________________________
+
 SQL Projects from Khan Academy:
 
 “Design a store database” (Shows knowledge of creating a SQL Table)
@@ -16,6 +18,7 @@ https://www.khanacademy.org/computer-programming/spin-off-of-project-app-imperso
 “Famous People” (Shows knowledge of combining tables using JOIN statements)
 https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5745104930570240
 
+_________________________________________
 
 Codecademy Learn SQL Course Completion:
 https://www.codecademy.com/jerome.pullen
