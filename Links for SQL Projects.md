@@ -13,9 +13,6 @@ _________________________________________
 
 SQL Projects from Khan Academy:
 
-“Design a store database” (Shows knowledge of creating a SQL Table)
-https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6592962378432512
-
 “Data Dig" (Shows knowledge of finding statistics and filtering data)
 https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/4834013652287488
 
@@ -24,6 +21,9 @@ https://www.khanacademy.org/computer-programming/spin-off-of-project-app-imperso
 
 “Famous People” (Shows knowledge of combining tables using JOIN statements)
 https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5745104930570240
+
+“Design a store database” (Shows knowledge of creating a SQL Table)
+https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6592962378432512
 
 _________________________________________
 
