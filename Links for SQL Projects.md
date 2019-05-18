@@ -16,6 +16,6 @@ https://www.khanacademy.org/computer-programming/spin-off-of-project-app-imperso
 “Famous People” (Shows knowledge of combining tables using JOIN statements)
 https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5745104930570240
 
-Codecademy Learn SQL Course Completion:
 
+Codecademy Learn SQL Course Completion:
 https://www.codecademy.com/jerome.pullen
