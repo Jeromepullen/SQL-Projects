@@ -20,7 +20,9 @@ https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-peop
 
 _________________________________________
 
-(SQL with Jupyter Notebook project from Datacamp) "TV, Halftime Shows, and the Big Game":
+SQL with Jupyter Notebook project from Datacamp: 
+
+"TV, Halftime Shows, and the Big Game":
 https://github.com/Jeromepullen/SQL-Projects/blob/master/(SQL%20with%20Jupyter%20Notebook)%20Tv%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game.ipynb
 
 _________________________________________
