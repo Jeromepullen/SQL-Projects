@@ -22,3 +22,5 @@ _________________________________________
 
 Codecademy Learn SQL Course Completion:
 https://www.codecademy.com/jerome.pullen
+
+_________________________________________
