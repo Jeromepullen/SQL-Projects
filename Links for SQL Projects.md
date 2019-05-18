@@ -1,5 +1,6 @@
 # SQL-Projects
-Projects that I have completed using SQL
+
+Here are some projects that I have completed using SQL:
 
 SQL Projects from Khan Academy:
 
