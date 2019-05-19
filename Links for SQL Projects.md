@@ -1,6 +1,12 @@
 # SQL-Projects
 
 Here are some projects that I (Jerome Pullen Jr.) have completed using SQL:
+_________________________________________
+
+SQL Project from Udacity:
+
+Digital Music Store:
+https://github.com/Jeromepullen/SQL-Projects/blob/master/Digital%20Media%20Store%20SQL%20Project.pdf
 
 _________________________________________
 
