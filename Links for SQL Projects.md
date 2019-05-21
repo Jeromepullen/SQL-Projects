@@ -3,17 +3,17 @@
 Here are some projects that I (Jerome Pullen Jr.) have completed using SQL:
 _________________________________________
 
-SQL Project from Udacity:
-
-SQL for Data Analysis - Digital Media Store:
-https://github.com/Jeromepullen/SQL-Projects/blob/master/Digital%20Media%20Store%20SQL%20Project.pdf
-
-_________________________________________
-
 SQL with Jupyter Notebook Project from Datacamp: 
 
 "TV, Halftime Shows, and the Big Game":
 https://github.com/Jeromepullen/SQL-Projects/blob/master/(SQL%20with%20Jupyter%20Notebook)%20Tv%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game.ipynb
+
+_________________________________________
+
+SQL Project from Udacity:
+
+SQL for Data Analysis - Digital Media Store:
+https://github.com/Jeromepullen/SQL-Projects/blob/master/Digital%20Media%20Store%20SQL%20Project.pdf
 
 _________________________________________
 
