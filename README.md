@@ -26,7 +26,7 @@ https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/48
 https://www.khanacademy.org/computer-programming/spin-off-of-project-app-impersonator/6343771731361792
 
 “Famous People” (Shows knowledge of combining tables using JOIN statements):
-https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5745104930570240
+https://www.khanacademy.org/computer-programming/spin-off-of-project-famous-people/5745930570240
 
 “Design a store database” (Shows knowledge of creating a SQL Table):
 https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/6592962378432512
