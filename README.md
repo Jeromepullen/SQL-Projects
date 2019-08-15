@@ -3,7 +3,7 @@
 Here are some projects that I (Jerome Pullen Jr.) have completed using SQL:
 _________________________________________
 
-<b>SQL for Beginners: Learn SQL using MySQL and Database Design Course from Udemy </b>:
+<h2>SQL for Beginners: Learn SQL using MySQL and Database Design Course from Udemy </h2>:
 
 https://github.com/Jeromepullen/SQL-Projects/tree/master/Udemy%20SQL%20Course
 
