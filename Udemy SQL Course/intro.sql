@@ -1,0 +1,17 @@
+# comments
+SHOW DATABASES;
+
+CREATE DATABASE test;
+
+USE TEST;
+
+SHOW TABLES;
+
+DROP DATABASE test;
+
+
+
+
+
+
+
