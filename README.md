@@ -3,6 +3,13 @@
 Here are some projects that I (Jerome Pullen Jr.) have completed using SQL:
 _________________________________________
 
+<b>SQL for Beginners: Learn SQL using MySQL and Database Design Course from Udemy </b>:
+
+https://github.com/Jeromepullen/SQL-Projects/tree/master/Udemy%20SQL%20Course
+
+_________________________________________
+
+
 <b>SQL with Jupyter Notebook Project from Datacamp</b>: 
 
 "TV, Halftime Shows, and the Big Game":
